@@ -1,5 +1,5 @@
 {
-  "name": "YOUR-BOT-NAME" ,
+  "name": "IMASHA MD" ,
   "version": "1.0.0",
   "description": " WhatsApp Bot with Multi-Number Support",
   "main": "index.js",
@@ -31,8 +31,8 @@
     "bot",
     "multi-device",
     "baileys",
-    "your-bot-name"
+    "IMASHA MD"
   ],
-  "author": "YOUR-NAME",
+  "author": "IMASHA",
   "license": "MIT"
 }
